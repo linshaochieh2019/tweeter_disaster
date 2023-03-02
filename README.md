@@ -1,4 +1,4 @@
-# tweeter_disaster
+# Twiter_disaster
 NLP, text classification
 
 # Dataset
